@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a **Data Analytics enthusiast** currently enrolled in a bootcamp where I'm honing my skills in extracting insights from data and translating them into actionable decisions. I’m eager to contribute to impactful projects and continue growing in this field.
 
-![GithubCover01](https://github.com/user-attachments/assets/f7f9ce7e-6580-4d1f-a153-21d2112035eb)
+![gitBanner](https://github.com/user-attachments/assets/cc15144f-99d7-4224-bda6-15af4813a3f1)
 ## 🚀 Tech Stack <br>
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GithubCover01](https://github.com/user-attachments/assets/f7f9ce7e-6580-4d1f-a153-21d2112035eb)
+
