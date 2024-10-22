@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![gitCover](https://github.com/user-attachments/assets/07de921b-a312-473f-919e-6c7bf2b912de)
 ## 🚀 Data Analytics <br>
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
