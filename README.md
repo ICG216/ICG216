@@ -1,15 +1,7 @@
 ## Hi there 👋 <br>
+<img src= https://github.com/ICG216/ICG216/blob/main/GithubCover01.jpeg width="100%" />
 
 Welcome to my GitHub profile! I'm a **Data Analytics enthusiast** currently enrolled in a bootcamp where I'm honing my skills in extracting insights from data and translating them into actionable decisions. I’m eager to contribute to impactful projects and continue growing in this field.
-
-## 🚀 Tech Stack <br>
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) <br><br>
 
 ## 👩‍💻 About Me <br>
 
@@ -22,6 +14,15 @@ I’m transitioning from the field of Videogames (3D Artist) into the field of *
 - **Matplotlib** for data visualization.
 
 I’m excited about applying these skills to real-world problems and collaborating on open-source projects.
+
+## 🚀 Tech Stack <br>
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) <br><br>
 
 ## 🌱 Currently Learning <br>
 
