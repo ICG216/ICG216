@@ -1,7 +1,7 @@
 ## Hi there 👋 <br>
-<img src= https://github.com/ICG216/ICG216/blob/main/GithubCover01.jpeg width="100%" />
-
 Welcome to my GitHub profile! I'm a **Data Analytics enthusiast** currently enrolled in a bootcamp where I'm honing my skills in extracting insights from data and translating them into actionable decisions. I’m eager to contribute to impactful projects and continue growing in this field.
+
+<img src= https://github.com/ICG216/ICG216/blob/main/GithubCover01.jpeg width="100%" />
 
 ## 👩‍💻 About Me <br>
 
