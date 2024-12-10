@@ -13,16 +13,29 @@ I’m transitioning from the field of Videogames (3D Artist) into the field of *
 - **Pandas** and **NumPy** for data wrangling and analysis.
 - **Matplotlib** for data visualization.
 
-I’m excited about applying these skills to real-world problems and collaborating on open-source projects.
+I’m excited about applying these skills to real-world problems and collaborating on open-source projects. <br><br>
 
 ## 🚀 Tech Stack <br>
 
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) <br><br>
+
+## 💻 Other Software <br>
+
+![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-00A1E0.svg?&style=for-the-badge&logo=Autodesk&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%205-313131.svg?&style=for-the-badge&logo=unrealengine&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Substance 3D Painter](https://img.shields.io/badge/Substance%203D%20Painter-FF6A00.svg?&style=for-the-badge&logo=adobe&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E.svg?&style=for-the-badge&logo=aseprite&logoColor=white)
+![Da Vinci Resolve](https://img.shields.io/badge/Da%20Vinci%20Resolve-F28044.svg?&style=for-the-badge&logo=davinciresolve&logoColor=white) <br><br>
+
 
 ## 🌱 Currently Learning <br>
 
@@ -30,7 +43,7 @@ I am deepening my knowledge in:
 
 - Advanced data manipulation with **Pandas**.
 - Creating powerful, business-focused visualizations using **Power BI**.
-- Optimizing database queries with **SQL**.
+- Optimizing database queries with **SQL**. <br><br>
 
 ## The mandatory quote: <br>
 "Code is like humor. When you have to explain it, it’s bad." – Cory House
