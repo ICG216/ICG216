@@ -42,7 +42,7 @@ I’m excited about applying these skills to real-world problems and collaborati
 
 I am deepening my knowledge in:
 
-- Advanced data manipulation with **Pandas**.
+- App creation with **Streamlit**.
 - Creating powerful, business-focused visualizations using **Power BI**.
 - Machine Learning and **ETL** processes. <br><br>
 
