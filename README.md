@@ -44,7 +44,7 @@ I am deepening my knowledge in:
 
 - Advanced data manipulation with **Pandas**.
 - Creating powerful, business-focused visualizations using **Power BI**.
-- Optimizing database queries with **SQL**. <br><br>
+- Machine Learning and **ETL** processes. <br><br>
 
 ## The mandatory quote: <br>
 "Code is like humor. When you have to explain it, it’s bad." – Cory House
