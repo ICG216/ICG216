@@ -1,7 +1,7 @@
 ## Hi there 👋 <br>
 Welcome to my GitHub profile! I'm a **Data Analytics enthusiast** currently enrolled in a bootcamp where I'm honing my skills in extracting insights from data and translating them into actionable decisions. I’m eager to contribute to impactful projects and continue growing in this field.
 
-![Pixel_Data_banner_Anim](https://github.com/user-attachments/assets/8b3eb348-c427-4314-a115-649d5eb2ddab)
+![Pixel_Data_banner_Anim_NEW](https://github.com/user-attachments/assets/56e1240a-feba-4c24-8c38-f59eabbb1f4c)
 
 
 ## 👩‍💻 About Me <br>
